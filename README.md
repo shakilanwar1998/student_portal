@@ -8,3 +8,4 @@
 4. Click on the import option and select the student.sql
 5. Copy all files to the 'htdocs' folder of XAMPP directory
 6. Now browse localhost/ from any web browser
+7. Admin , teacher, student ID : 172-35-2142 password: 1234
