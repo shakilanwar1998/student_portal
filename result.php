@@ -10,17 +10,17 @@
   $student = $_SESSION["student"];
  ?>
 
- <?php if(isset($_REQUEST["student"]))
+ <?php if(isset($_SESSION["student"]))
  {
    require_once("sidebar.php");
  }
 
- if(isset($_REQUEST["teacher"]))
+ if(isset($_SESSION["teacher"]))
  {
    require_once("teacher_sidebar.php");
  }
 
- if(isset($_REQUEST["admin"]))
+ if(isset($_SESSION["admin"]))
  {
    require_once("admin_panel_sidebar.php");
  }
