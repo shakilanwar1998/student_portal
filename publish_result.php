@@ -91,11 +91,11 @@
 
                         ?>
 
-                      <!--  <form action="result_publish_core.php" method="POST">
+                      <form action="result_publish_core.php" method="POST">
                         <input type="hidden" name="mark[<?php echo $count;?>]" value="<?php echo $total; ?>">
                         <input type="hidden" name="subject[<?php echo $count;?>]" value="<?php echo $subject_id; ?>" >
                         <input type="hidden" name="std[<?php echo $count;?>]" value="<?php echo $student; ?>">
-                        <input type="hidden" name="class" value="<?php echo $class; ?>"> -->
+                        <input type="hidden" name="class" value="<?php echo $class; ?>">
 
                   <?php $count++;
                   }
