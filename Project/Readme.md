@@ -1,5 +1,3 @@
-# Student_portal_Shakil
-
 # Instractions
 
 1. Use XAMPP server for this project
